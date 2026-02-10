@@ -2,7 +2,7 @@
 
 Analysis and visualization of British Columbia oil and gas production data, focusing on the Montney formation.
 
-![alt text](image.png)
+![alt text](imagemain.png)
 
 ## Contents
 
@@ -26,7 +26,7 @@ Then open the notebook:
 jupyter notebook report.ipynb
 ```
 
-![alt text](image-2.png)
+![alt text](imagemain2.png)
 
 
 
@@ -37,6 +37,7 @@ Economic assumptions used: $3/GJ gas price, $450/day OPEX, $5M drilling + $3.5M 
 ## License
 
 MIT License
+
 
 
 
